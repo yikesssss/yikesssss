@@ -14,7 +14,7 @@ An analysis on which designer brands like Rick Owens, Saint Laurent, Kapital and
 
 ### ♊ [Horoscope Classifier](https://github.com/yikesssss/Horoscope-classifier)
 Naive Bayes classifier testing whether horoscope text is sign-specific
-`Processing` `Java`
+`Python` 
 
 ## Currently
 - 🌱 Learning: TypeScript and Machine Learning
