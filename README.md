@@ -8,12 +8,12 @@ I build small, focused web projects — from hackathon apps tackling real proble
 A tool that helps make mental health support more accessible by prompting users to challenge and reframe their thoughts. Built at ElleHacks 2024.
 `JavaScript` `Python` `CSS`
 
-### ✅ [StickerTodo](https://github.com/yikesssss/StickerTodo)
-A to-do app powered by Google's Gemini that breaks big tasks into manageable subtasks, aimed at reducing overwhelm. Built for HackTheSix 2025.
-`React` `JavaScript`
+### ✅ [Resale Jean Price Analysis](https://github.com/yikesssss/StickerTodo](https://github.com/yikesssss/resale-jean-fashion-price-analysis)
+An analysis on which designer brands like Rick Owens, Saint Laurent, Kapital and listting keywords coresspond to higher resale value. 
+`Python` `Streamlit`
 
-### 📐 [Vector Addition & Subtraction Simulator](https://github.com/yikesssss/vector-addition-and-subtraction-simulator)
-An interactive simulator — pick two points and watch an animation of their vectors being added and subtracted.
+### 📐 [Horoscope Classifier](https://github.com/yikesssss/Horoscope-classifier)
+Naive Bayes classifier testing whether horoscope text is sign-specific
 `Processing` `Java`
 
 ## Currently
