@@ -12,7 +12,7 @@ A tool that helps make mental health support more accessible by prompting users 
 An analysis on which designer brands like Rick Owens, Saint Laurent, Kapital and listting keywords coresspond to higher resale value. 
 `Python` `Streamlit`
 
-### ♊ [Horoscope Classifier](https://github.com/yikesssss/Horoscope-classifier)
+### ♊ [Horoscope Text Analysis](https://github.com/yikesssss/Horoscope-text-analysis)
 Naive Bayes classifier testing whether horoscope text is sign-specific
 `Python` 
 
