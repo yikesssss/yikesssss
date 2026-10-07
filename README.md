@@ -12,9 +12,10 @@ A tool that helps make mental health support more accessible by prompting users 
 An analysis on which designer brands like Rick Owens, Saint Laurent, Kapital and listting keywords coresspond to higher resale value. 
 `Python` `Streamlit`
 
-### ♊ [Horoscope Text Analysis](https://github.com/yikesssss/Horoscope-text-analysis)
-Naive Bayes classifier testing whether horoscope text is sign-specific
-`Python` 
+### 🏢 [Job Application Tracker](https://github.com/yikesssss/Job-Tracker)
+A structured Chrome Extension data workflow for collecting, transmitting, and organizing application records, reducing manual
+data entry, improving consistency and automating data collection. It saves the entry into a centralized Google Sheet for easy access accros devices. 
+`JavaScript` `HTML` `CSS` `Chrome Extension API` 
 
 ## Currently
 - 🌱 Learning: TypeScript and Machine Learning
