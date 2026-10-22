@@ -19,4 +19,4 @@ data entry, improving consistency and automating data collection. It saves the e
 
 ## Currently
 - 🌱 Learning: TypeScript and Machine Learning
-- 🔭 Building: A stock recommender
+- 🔭 Building: A CN tower map
